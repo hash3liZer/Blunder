@@ -66,7 +66,7 @@ int main(){
 		setColor(colorYellow);
 		cout << "\t3  -> ";
 		setColor(colorWhite);
-		cout << "Set SMTP Settings for Receiving Mails!" << endl;
+		cout << "Enter FTP Server Details!" << endl;
 		setColor(colorYellow);
 		cout << "\t4  -> ";
 		setColor(colorWhite);
