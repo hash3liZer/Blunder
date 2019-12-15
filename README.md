@@ -28,7 +28,7 @@ You may compile the code the directly by running it from Visual Studio 2012. Or 
 
 ### Interface
 
-<p align="center"><img src="https://user-images.githubusercontent.com/29171692/70858781-6fb4e600-1ebd-11ea-8513-f55548f9fac2.PNG" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/29171692/70858848-94f62400-1ebe-11ea-993d-e810116f5958.PNG" /></p>
 
 ### Contact
 Twitter: <a href="//twitter.com/hash3liZer">@hash3liZer</a><br>
