@@ -24,7 +24,7 @@ This tool is only for learning and education purposes. And should be only be use
 
 ### Compilation
 
-You may compile the code the directly by running it from Visual Studio 2012. Or you can local C++ Compilers like g++ etc. 
+You may compile the code the directly by running it from Visual Studio 2012. I've not tested other versions of `Visual Studio` but they should work fine as well. 
 
 ### Interface
 
